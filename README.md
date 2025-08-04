@@ -18,6 +18,22 @@ Analyze ad campaign data from **Facebook and Instagram** to evaluate:
 - **Power BI** (for interactive dashboard)
 - **Microsoft Excel** (for data cleaning & transformation)
 
+## 📊 Dashboard Features
+- **KPIs:** Impressions, Spend, Clicks, Revenue, CTR, CPC, ROI.
+- **Trends:** CTR, Ad Spend, ROI over time.
+- **Top-Performing Ads:** Based on approved conversions.
+- **Conversion Funnel:** Clicks → Total Conversions → Approved Conversions.
+- **Demographics:** Conversion breakdown by Gender & Age.
+- **Interactive Filters:** Gender, Age, Date slicers for deep dive analysis.
+
+## 📈 Key Insights
+- Total Revenue: **108K**
+- ROI Achieved: **7.02K**
+- Highest Converting Age Group: **40-44 years (38.86%)**
+- Male users contributed **54.12%** of total conversions.
+- Top-performing Ad ID: **1121104 (21 conversions)**.
+- CTR trends indicate a drop after **20th August**, suggesting optimization opportunities.
+
 ## 📁 Project Files
 | File Name | Description |
 |-----------|-------------|
