@@ -16,7 +16,7 @@ Analyze ad campaign data from **Facebook and Instagram** to evaluate:
 
 ## 🛠 Tools & Technologies
 - **Power BI** (for interactive dashboard)
-- **Microsoft Excel ** (for data cleaning & transformation)
+- **Microsoft Excel** (for data cleaning & transformation)
 
 ## 📁 Project Files
 | File Name | Description |
