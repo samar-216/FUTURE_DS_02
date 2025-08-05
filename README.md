@@ -29,7 +29,7 @@ Analyze ad campaign data from **Facebook and Instagram** to evaluate:
 ## 📈 Key Insights
 - Total Revenue: **108K**
 - ROI Achieved: **7.02K**
-- Highest Converting Age Group: **40-44 years (38.86%)**
+- Highest Converting Age Group: **30-34 years (36.98%)**
 - Male users contributed **54.12%** of total conversions.
 - Top-performing Ad ID: **1121104 (21 conversions)**.
 - CTR trends indicate a drop after **20th August**, suggesting optimization opportunities.
