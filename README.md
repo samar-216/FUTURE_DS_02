@@ -50,4 +50,4 @@ Analyze ad campaign data from **Facebook and Instagram** to evaluate:
 ## 👤 About Me
 I’m **Samar Manna**, a B.Tech CSE (Data Science) student passionate about marketing analytics and storytelling through data.
 
-📬 Let’s connect: [LinkedIn](www.linkedin.com/in/samar-manna-83aa73273)
+📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/samar-manna-83aa73273)
