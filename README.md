@@ -1,7 +1,5 @@
 # 📊 Social Media Campaign Performance Tracker
 
-This repository contains my second task as part of the **Future Interns Program**.
-
 ## 🔍 Task Overview
 Analyze ad campaign data from **Facebook and Instagram** to evaluate:
 - 📈 Campaign Performance
